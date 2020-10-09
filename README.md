@@ -1,4 +1,9 @@
-### Hi there 👋
+<img align="right" src="https://github.com/shikhalakra22/shikhalakra22/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+### Hi there, I am Shikha Lakra👋
+[![Linkedin Badge](https://img.shields.io/badge/-shikhalakra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shikha-lakra/)](https://www.linkedin.com/in/shikha-lakra/)
+[![Gmail Badge](https://img.shields.io/badge/-slakra567@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:slakra567@gmail.com)](mailto:slakra567@gmail.com) 
+
+- 🎯 Portfolio website: [Portfolio](https://shikhalakra22.github.io/)
 
 <!--
 **shikhalakra22/shikhalakra22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
