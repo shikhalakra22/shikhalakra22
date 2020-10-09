@@ -1,4 +1,7 @@
 <img align="right" src="https://github.com/shikhalakra22/shikhalakra22/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
+
+
+
 ### Hi there, I am Shikha Lakra👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-shikhalakra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shikha-lakra/)](https://www.linkedin.com/in/shikha-lakra/)
