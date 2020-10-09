@@ -4,10 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-slakra567@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:slakra567@gmail.com)](mailto:slakra567@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://shikhalakra22.github.io/)
-
-<!--
-**shikhalakra22/shikhalakra22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
