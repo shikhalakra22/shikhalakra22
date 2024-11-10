@@ -10,10 +10,10 @@
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
 - Machine Learning 🧐
-- Data Science 😬
+
 
 <a href="https://gitstats.me/shikhalakra22">
     <img width="420" height="auto" align="right" alt="Shikha's github stats" 
